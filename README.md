@@ -30,7 +30,7 @@ This project uses **Git LFS** (Large File Storage) to manage large data files. T
 
 2. Clone the repository:
    ```
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/kimsejas/Crash-Prediction-Weather-Data-DC-Random-Forest.git
    ```
 
 3. Pull the large files managed by Git LFS:
