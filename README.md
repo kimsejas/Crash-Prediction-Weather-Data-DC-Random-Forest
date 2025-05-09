@@ -19,11 +19,32 @@ This project uses a Random Forest model to analyze how weather data impacts traf
 
 ## Usage 
 
-1. Install the required dependencies:
+### Cloning the Repository
 
+This project uses **Git LFS** (Large File Storage) to manage large data files. To clone the repository, ensure you have Git LFS installed:
+
+1. Install Git LFS (if not already installed):
+   ```
+   git lfs install
+   ```
+
+2. Clone the repository:
+   ```
+   git clone https://github.com/your-repo-url.git
+   ```
+
+3. Pull the large files managed by Git LFS:
+   ```
+   git lfs pull
+   ```
+
+### Installing Dependencies
+
+1. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
+
 2. Run the script: 
     ``` 
     python main.py
